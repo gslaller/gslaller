@@ -12,7 +12,7 @@ Here are a few of the projects I've worked on:
 
 - [SLAM](https://github.com/gslaller/SLAM): For visual Odometry and depth mapping. 🎨
 - [WebEmbedding](https://github.com/gslaller/WebEmbedding): GNN on website. 🎨
-- [Webrtc](https://github.com/gslaller/reden.io): A browser based video conferencing app, blazingly scalable. 📱
+- [Webrtc](https://github.com/gslaller/redenio): A browser based video conferencing app, blazingly scalable. 📱
 
 All feedbacks are welcome 🙏
 
