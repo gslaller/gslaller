@@ -10,9 +10,9 @@ I am particularly interested in scalable architecture (web scale🚀<sup>2</sup>
 ## Projects 📂
 Here are a few of the projects I've worked on:
 
+- [Webrtc](https://github.com/gslaller/redenio): A browser based video conferencing app, blazingly scalable. 📱
 - [SLAM](https://github.com/gslaller/SLAM): For visual Odometry and depth mapping. 🎨
 - [WebEmbedding](https://github.com/gslaller/WebEmbedding): GNN on website. 🎨
-- [Webrtc](https://github.com/gslaller/redenio): A browser based video conferencing app, blazingly scalable. 📱
 
 All feedbacks are welcome 🙏
 
