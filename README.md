@@ -1,4 +1,4 @@
-# Hello, Hallo, नमस्ते, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ
+# Moin, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ
 
 ## Short bio:  
 I'm Gurpreet, a software developer living in Hamburg, Germany.
