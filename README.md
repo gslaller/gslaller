@@ -1,6 +1,6 @@
 ### Hi there 🦅
 
-I am _Gurpreet Singh Laller_ from Hamburg, Germany. Willing to move to a warmer city.
+I am _Gurpreet Singh Laller_ from Hamburg, Germany.
 
 - 🔭 I’m currently working on Sensor-Infused SLAM.
 - 🌱 I’m currently learning how to design scalable system(Not needed by the majority of apps😉).
